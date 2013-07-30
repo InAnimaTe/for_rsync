@@ -1,0 +1,14 @@
+plugin.description: The plugin is intended for create symlinks.
+plugin.author: Novik
+plugin.version: 3.3
+
+
+NOTE: This has been put on github by InAnimaTe. 
+
+INSTALL: Just edit the conf file with the directory where you want
+your symlinks to be made. Right click the torrent in rutorrent you
+should see "Mark for Transfer" in the menu. Click that to have the 
+symlink made. This works for files as well as directories.
+
+Extra: You can actually have two of these running side by side by changing the funtion
+name is the .js file and the "Mark for Transfer" name to something more unique.
